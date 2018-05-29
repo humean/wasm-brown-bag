@@ -10,7 +10,7 @@ npm install
 npm run start
 ```
 
-* Open [http://localhost:8080/](http://localhost:8080/) is a recent version of firefox or chrome
+* Open [http://localhost:8080/](http://localhost:8080/) in a recent version of Firefox or Chrome
 
 * Open Chrome or Firefox Dev tools (typically F12) and click on "console"
 
