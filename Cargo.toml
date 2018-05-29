@@ -1,0 +1,10 @@
+[package]
+authors = ["Michael Rutter"]
+name = "wasm-brown-bag"
+version = "0.1.0"
+
+[dependencies]
+wasm-bindgen = "0.2.8"
+
+[lib]
+crate-type = ["cdylib"]
